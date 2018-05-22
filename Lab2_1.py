@@ -1,3 +1,5 @@
+# Lab2 Frozen Lake
+
 LEFT = 0
 DOWN = 1
 RIGHT = 2
