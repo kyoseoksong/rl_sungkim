@@ -1,3 +1,5 @@
+# Lab3 Frozen Lake
+
 # Added two lines below to avoid error message in ubuntu command line interface.
 import matplotlib
 matplotlib.use('Agg')
