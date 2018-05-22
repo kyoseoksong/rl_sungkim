@@ -1,4 +1,4 @@
-# Lab2 Frozen Lake
+# Lab2 Frozen Lake 
 
 LEFT = 0
 DOWN = 1
