@@ -1,5 +1,5 @@
 # Lab6 Frozen Lake with Q Network
-# success rate should be about 40~55%
+# success rate should be about 40~55% 
 
 import gym
 import numpy as np
